@@ -39,11 +39,7 @@ export default function Topbar() {
             <span className="topbarIconBadge">1</span>
           </div>
         </div>
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/6/69/Rohit_Sharma_2015_%28cropped%29.jpg"
-          alt="Pic"
-          className="topbarImg"
-        />
+        <img src="/images/person/2.jpeg" alt="Pic" className="topbarImg" />
       </div>
     </div>
   );
